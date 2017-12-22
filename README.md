@@ -17,7 +17,7 @@ While in the "Run" directory, type the following command:
 ../Run:> java -jar DocOrganize <topic> <frequency>
 
 e.g.
-..Run:> java -jar DocOrganize John 4
+..Run:> java -jar DocOrganize storage 3
 With this command, any file containing the word John more than 4 times will be copied into a folder "John"
 
 

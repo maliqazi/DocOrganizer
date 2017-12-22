@@ -1,0 +1,81 @@
+Algorithm question was about autocomplete of words given an input string and frequency counts of words.		
+		
+Write code to reverse the digits in an integer.  		
+		
+questions now related to selenium web driver. Asked to write Java program based on one scenario.  		
+		
+		
+Print out a substring of a string		
+		
+		
+If a tv was delivered to your door, describe steps on how to turn the tv to channel 10.  		
+		
+		
+		
+>javac organize.java legal 4		
+		
+public class fileInfo throws exception {		
+	private int frequency;	
+	private string filename;	
+		
+		
+List list<fileinfo>		
+		
+sort list by frequency property by descending order		
+compare frequencies		
+	if frequency > 4	
+		get index of the list item
+		break;
+	take those files and place in a folder	
+		
+		
+		
+class for fileInfo		
+class for input parameters		
+class for file open/reading/create folder/copy into folder		
+		
+		
+		
+Algorithm question was about autocomplete of words given an input string and frequency counts of words.		
+		
+Write code to reverse the digits in an integer.  		
+		
+questions now related to selenium web driver. Asked to write Java program based on one scenario.  		
+		
+		
+Print out a substring of a string		
+		
+		
+If a tv was delivered to your door, describe steps on how to turn the tv to channel 10.  		
+		
+		
+		
+>javac organize.java legal 4		
+		
+public class fileInfo throws exception {		
+	private int frequency;	
+	private string filename;	
+		
+		
+		
+		
+		
+Algorithm question was about autocomplete of words given an input string and frequency counts of words.		
+		
+Write code to reverse the digits in an integer.  		
+		
+questions now related to selenium web driver. Asked to write Java program based on one scenario.  		
+		
+		
+Print out a substring of a string		
+		
+		
+If a tv was delivered to your door, describe steps on how to turn the tv to channel 10.  		
+		
+		
+		
+>javac organize.java legal 4		
+		
+public class fileInfo throws exception {		
+	private int frequency;	
+	private string filename;	
